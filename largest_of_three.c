@@ -13,7 +13,7 @@ int main() {
         grand = c;
     }
 
-        printf("le plus grand nombre est : %d\n", grand);
+        printf("Le plus grand nombre est : %d\n", grand);
     
 
     return 0;// fin du programme 
